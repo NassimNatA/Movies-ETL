@@ -9,5 +9,3 @@ The purpose of this challenge is to produce a pipeline for taking in new data, a
 - Deliverable 2: Wikipedia Data extracted and transformed
 - Deliverable 3: Extract and Transform the Kaggle datae extracted and transformed
 - Deliverable 4: Created the Movie Database
-
-## Results
